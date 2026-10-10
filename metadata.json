@@ -1,0 +1,6 @@
+{
+  "name": "CampusFind - Smart College Lost & Found System",
+  "description": "Smart College Lost & Found System for Siddhartha Academy of Higher Education with AI-powered matching, secure verification, security custody workflow, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

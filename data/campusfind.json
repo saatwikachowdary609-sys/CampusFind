@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": "usr_student_1",
+      "email": "saatwikachowdary609@gmail.com",
+      "password_hash": "sha256_mock_hash_student_saatwika",
+      "full_name": "Saatwika Chowdary K.",
+      "role": "admin",
+      "department": "Computer Science & Engineering",
+      "student_or_staff_id": "ADM-221FA04001",
+      "phone": "+91 98480 22334",
+      "created_at": "2026-09-01T08:30:00Z"
+    },
+    {
+      "id": "usr_student_2",
+      "email": "rahul.ece@siddhartha.ac.in",
+      "password_hash": "sha256_mock_hash_student_rahul",
+      "full_name": "Rahul Varma V.",
+      "role": "student",
+      "department": "Electronics & Communication",
+      "student_or_staff_id": "231FA05044",
+      "phone": "+91 98481 44556",
+      "created_at": "2026-09-05T09:15:00Z"
+    },
+    {
+      "id": "usr_security_1",
+      "email": "security.gate1@siddhartha.ac.in",
+      "password_hash": "sha256_mock_hash_sec_prasad",
+      "full_name": "R. Prasad (Havildar)",
+      "role": "security",
+      "department": "Campus Security & Vigilance Unit",
+      "student_or_staff_id": "SEC-089",
+      "phone": "+91 866 2582333",
+      "created_at": "2026-08-15T08:00:00Z"
+    },
+    {
+      "id": "usr_admin_1",
+      "email": "admin.office@siddhartha.ac.in",
+      "password_hash": "sha256_mock_hash_adm_drrao",
+      "full_name": "Dr. V. Nageswara Rao",
+      "role": "admin",
+      "department": "Dean Student Affairs & Grievances",
+      "student_or_staff_id": "ADM-FAC-012",
+      "phone": "+91 866 2582311",
+      "created_at": "2026-08-01T08:00:00Z"
+    },
+    {
+      "email": "25eu04392@siddhartha.edu.in",
+      "password_hash": "sha256_default",
+      "full_name": "Saatwika Vemulapalli",
+      "role": "student",
+      "department": "Computer Science & Engineering",
+      "student_or_staff_id": "25EU04392",
+      "phone": "",
+      "id": "usr_mv1z1cz7vwou",
+      "created_at": "2026-10-10T05:46:18.739Z"
+    },
+    {
+      "email": "25eu04355@siddhartha.edu.in",
+      "password_hash": "sha256_default",
+      "full_name": "Bhashitha Kalva",
+      "role": "student",
+      "department": "Computer Science & Engineering",
+      "student_or_staff_id": "25eu04355",
+      "phone": "",
+      "id": "usr_mv209wxkc1le",
+      "created_at": "2026-10-10T06:20:57.464Z"
+    }
+  ],
+  "items": [],
+  "private_details": [],
+  "matches": [
+    {
+      "lost_item_id": "itm_mv200j5vqlbc",
+      "found_item_id": "itm_mv201sjk9qra",
+      "match_score": 88,
+      "match_reasons": [
+        "Exact match on item type, brand (Milton), and color (blue)",
+        "Identical location reported: Administrative Tower - Dean Office Corridor",
+        "Chronologically consistent, found approximately 22 hours after being reported lost"
+      ],
+      "ai_model": "gemini-3.8-flash",
+      "status": "suggested",
+      "id": "mat_mv201vuxy9qe",
+      "created_at": "2026-10-10T06:14:42.825Z",
+      "updated_at": "2026-10-10T06:14:42.825Z"
+    }
+  ],
+  "claims": [],
+  "collection_records": [],
+  "notifications": [],
+  "audit_logs": []
+}
